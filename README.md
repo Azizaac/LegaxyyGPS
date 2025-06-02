@@ -1,38 +1,26 @@
-<h1 align="center">📍 Lacak Lokasi - Android GPS Tracker App</h1>
+# 📍 Aplikasi Lacak Lokasi (Java - Android)
 
-<p align="center">
-  A simple Android app to detect and display your real-time GPS location using Location Based Service (LBS).
-</p>
+Aplikasi Android sederhana untuk menampilkan lokasi pengguna menggunakan GPS tanpa menggunakan Google Maps API. Dibuat menggunakan Java dan Android Studio.
 
----
+## 🧩 Fitur
 
-## 🚀 Features
+- Menampilkan koordinat lokasi (Latitude & Longitude)
+- Tombol untuk melacak lokasi saat ini
+- Tidak menggunakan Google Maps API
+- Tampilan sederhana dan ringan
 
-- ✅ Real-time location detection (Latitude & Longitude)
-- ✅ Uses Google's FusedLocationProvider API
-- ✅ Minimalist and clean UI
-- ✅ Button to fetch current location instantly
-- ✅ Perfect for student projects or LBS demos
+## 🛠 Teknologi
 
----
-
-## 🖼️ Screenshot
-
-<img src="https://github.com/user-attachments/assets/3ddc84ad-937d-4490-9fc1-5361f3d02d42" alt="App Screenshot" width="300"/>
-
----
-
-## 🛠️ Tech Stack
-
-- Java / Kotlin
+- Java
 - Android Studio
-- Google Play Services Location API
-- XML for UI
+- LocationManager (GPS Provider)
 
----
+## 📷 Tampilan
 
-## 📦 Installation
+<img src="https://github.com/user-attachments/assets/3ddc84ad-937d-4490-9fc1-5361f3d02d42" alt="Tampilan Aplikasi" width="300"/>
 
-1. Clone this repo  
+## 🚀 Cara Menjalankan
+
+1. Clone repositori ini:
    ```bash
-   git clone https://github.com/username/lacak-lokasi.git
+   git clone https://github.com/username/nama-repo.git
