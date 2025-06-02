@@ -23,4 +23,4 @@ Aplikasi Android sederhana untuk menampilkan lokasi pengguna menggunakan GPS tan
 
 1. Clone repositori ini:
    ```bash
-   git clone https://github.com/username/nama-repo.git
+   git clone https://github.com/Azizaac/LegaxyyGPS.git
